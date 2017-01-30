@@ -2,6 +2,7 @@
 #define EULER_CHARACTERISTIC_H
 
 #include <Eigen/Core>
+//#include <edges.h>
 // Compute the Euler Characteristic of a given triangle mesh.
 //
 // Inputs:

@@ -1,6 +1,10 @@
 #ifndef EDGES_H
 #define EDGES_H
 #include <Eigen/Core>
+//#include <Eigen/SparseCore>
+//#include <iostream>
+//#include <algorithm>
+//#include "igl/adjacency_matrix.h"
 // From a list of triangle indices into some vertex set V, determine the
 // set of unique undirected edges.
 //
